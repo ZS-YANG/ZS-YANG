@@ -24,7 +24,7 @@
 
 [![GeatV's GitHub stats](https://github-readme-stats-greatv.vercel.app/api?username=ZS-YANG&show_icons=true&theme=cobalt)](https://github.com/ZS-YANG)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreatV&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZS-YANG&theme=gotham)](https://git.io/streak-stats)
 
 ### Here you can see my favorite languages 🤔
 
