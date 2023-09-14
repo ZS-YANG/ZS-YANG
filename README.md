@@ -32,6 +32,7 @@ from https://github.com/GreatV/GreatV/blob/main/README.md
 
 [![Top Langs](https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=ZS-YANG&layout=compact&theme=gotham)](https://github.com/ZS-YANG)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZS-YANG&theme=xcode" /> </div>
 
 <!--
 **GreatV/GreatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
